@@ -1,1 +1,21 @@
 /* include your css here */
+
+body{
+	background-image:url("http://i61.tinypic.com/2w1sdaf.jpg");
+}
+p{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	color: #ffffff;
+}
+dl{
+	font-family:"Courier New", Courier, monospace;
+	}
+dt{
+	color: #00ccff;
+}
+h3{
+	color: #ffffff;
+}
+dd{
+	color: #ffffff;
+}
