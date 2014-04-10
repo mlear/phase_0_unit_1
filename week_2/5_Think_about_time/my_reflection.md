@@ -1,6 +1,9 @@
-# U1.W2: Thinking About Time Reflection
+ # U1.W2: Thinking About Time Reflection
 
-* What is your biggest time management challenge with during Phase 0? 
-* How will you combat that? 
-* What techniques will you try?
-* What is your overall plan for Phase 0?
+ +* What is your biggest time management challenge with during Phase 0?   My biggest challenge in Phase 0 is finding not only time to do the weekly exercise, but also to learn from them.  I am currently working 60 hour work weeks, and have 3 children who really want their dad to play with them.  This normally does not allow me to actually get to work on DBC related "stuff" until after 8:30 or 9 at night.  Factoring in 5 hours of sleep at night, and up at 5:45 to get the kids ready for school/day care, this leaves me about 4 hours a day to be able to work if I ignore every other aspect of my life.  Which I can't.  Usually I can sneak an a couple of hours during my current job while waiting for clients, or meetings to begin which helps, but so far I feel like everything is getting crunched into the weekend, which really leaves my wife displeased.
+ 
+ +* How will you combat that?  To be honest, I am considering leaving my job early then I had intially intended to.  I really am looking forward to a life change here and don't want my current job, which I hate passionately, to ruin that for me.  In the mean time, I will continue to trudge on like I have.  Fisrt step is to try and be more efficient at my current job so that maybe I can get home earlier in the day.  Even an extra hour a day would be a huge help.
+ 
+ +* What techniques will you try?  I'm thinking about trying counter intuitive technniques discussed here, http://paidtoexist.com/counterintuitive-productivity/, to make my work day shorter.  A lot of my day is spent getting through the same mundane tasks over and over again.  If I can priortize and focus on a flow instead of dreading every moment of the day, then I could get out of the office faster at the end of the day.  
+ 
+ +* What is your overall plan for Phase 0?  My plan is to learn enough of structure and syntax during Phase 0 so that I am not constantly referring to Google during Phase 1.  I already have seen a vast improvement from when I started, and I am retaining knowledge, which is good! I also really need to get more comfortable with all of the different tools we will be using in Phase 1, and reintroduce the Mac into my life (haven't used one in almost 20 years).  I know I still have a long way to go to where I can effectively and accurately write code, but looking forward to it!
