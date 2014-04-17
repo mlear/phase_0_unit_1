@@ -19,9 +19,9 @@
 
 var = {
   id: "userHero";
-  strength: "10";
-  health: "10";
-  position: Vector {
+  strength: 5;
+  health: 5;
+  position: {
     x: 0
     y: 25
   }
@@ -29,9 +29,9 @@ var = {
 
 var = {
   id: "munchkin";
-  strength: "5";
-  health: "5";
-  position: Vector {
+  strength: 6 ;
+  health: 5 ;
+  position: {
     x: 25
     y: 0
   }
@@ -123,7 +123,7 @@ while done = false {
     } else {return "The instructions are quite simple"}
 }     
 
-if success = true {
+if success === true {
   var wardance = prompt("Do a little dance!");
     if wardance === "dance" {
       dance()
