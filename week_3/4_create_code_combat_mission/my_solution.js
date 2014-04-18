@@ -18,21 +18,21 @@
 // Initial Code
 
 var userHero = {
-  id: "userHero";
-  strength: 5;
-  health: 5;
+  id: "userHero",
+  strength: 5,
+  health: 5,
   position: {
-    x: 0
+    x: 0,
     y: 25
   }
 }
 
 var munchkin = {
-  id: "munchkin";
-  strength: 6 ;
-  health: 5 ;
+  id: "munchkin",
+  strength: 6 ,
+  health: 5 ,
   position: {
-    x: 25
+    x: 25,
     y: 0
   }
 }
