@@ -17,7 +17,7 @@
 
 // Initial Code
 
-var = {
+var userHero = {
   id: "userHero";
   strength: 5;
   health: 5;
@@ -27,7 +27,7 @@ var = {
   }
 }
 
-var = {
+var munchkin = {
   id: "munchkin";
   strength: 6 ;
   health: 5 ;
