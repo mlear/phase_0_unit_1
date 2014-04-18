@@ -16,35 +16,82 @@ var terah = {
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
 
+  I will create an varible named adam and assign it no values in objet literal notation.
+
 2. Give adam a name property with the value "Adam".
+
+  I will create a new property named "name" in the adam variable and set the name to "Adam"
 
 3. Add a spouse property to terah and assign it the value of adam.
 
+  I will create a new property in the terah variable for spouse and assign it the variable of adam.
+
 4. Change the value of the terah weight property to 125.
+
+  I will change the value of the weight proeprty to 125.
 
 5. Remove the eyeColor property from terah.
 
+  I will delete the eyeColor preropty from terah.
+
 6. Add a spouse property to adam and assign it the value of terah.
+
+  I will add a spouse property to the variable adam and set its value to the variable terah.
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
 
+  I will add a children property to terah and set its value equal to a new object that I will create with no properties.
+
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+
+  I will add a property to the terah children property and assign to it a property name of "Carson".
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
 
+I will add a property to the terah children property and assign to it a property name of "Carter".
+
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
 
+    I will add a property to the terah children property and assign to it a property name of "Colton".
+
 11. Add a children property to adam and assign it the value of terah children.
 
+  I will add a new children propety to adam and assign to it the value of terah children variable.
 
 */
 
 // __________________________________________
 // Write your code below.
+
+
+
+var adam = {
+};
+
+adam.name = "Adam";
+
+terah.spouse = adam;
+
+terah.weight = 125;
+
+delete terah.eyeColor;
+
+adam.spouse = terah;
+
+terah.children = {};
+
+terah.children.carson = {name: "Carson"};
+
+terah.children.carter = {name: "Carter"};
+
+terah.children.colton = {name: "Colton"};
+
+adam.children = terah.children;
+
 
 
 
@@ -56,12 +103,12 @@ var terah = {
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
-// 
-// 
-// 
-// 
-// 
-
+//  I ran into two snags when doing this exercise.  The first one is that I was trying to build the variable or adam on the fly
+//  as I was getting errors.  I then copied teh terah variable in its entirity from above as was making changes to that. 
+//  Of course, this didn't work.  The I had my "ah hah!" moment that I should be adding and subtracting things through  
+//  Code, and not just altering existing code.  Worked great.  The other problem I then ran into was assigning a new empty variable as an object literal
+//  to an object literal.  This took a little trial and error and a trip to stack overflow to figure out.  So far so good!
+//
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
